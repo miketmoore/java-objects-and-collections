@@ -2,14 +2,12 @@
 
 or: How I Learned to Stop Worrying and Love the Java
 
-## Clone, Install, and Run
+## Clone, Install, Build, and Run
 
 ```
 git clone https://github.com/miketmoore/java-objects-and-collections.git
 cd java-objects-and-collections
-mvn install
-mvn package
-java -jar target/java-objects-and-collections-1.0-SNAPSHOT.jar
+make
 ```
 
 ## About
